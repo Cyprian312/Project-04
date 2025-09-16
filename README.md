@@ -1,1 +1,25 @@
-# Project-04
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formatowanie tekstu</title>
+</head>
+<body>
+
+    <p style="font-size: 24px;">To jest tekst z dużą czcionką</p>
+
+    <p style="color: red;">To jest tekst kolorowy</p>
+
+    <p style="font-family: 'Times New Roman', serif;">To jest tekst z innym krojem pisma</p>
+
+    <p style="font-weight: bold; font-style: italic; text-decoration: underline;">To jest tekst pogrubiony, pochylony i podkreślony</p>
+
+    <p style="text-transform: uppercase;">TO JEST TEKST Z TRANSFORMACJĄ</p>
+
+    <p style="letter-spacing: 2px;">To jest tekst z odstępami między literami</p>
+
+    <p style="font-size: 24px; line-height: 1.6;">To jest tekst z większą wysokością linii</p>
+
+</body>
+</html>
